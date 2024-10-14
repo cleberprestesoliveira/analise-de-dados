@@ -1,3 +1,4 @@
+//TRocar endereço
 const url = 'https://raw.githubusercontent.com/cleberprestesoliveira/api/refs/heads/main/dados.json'
 
 async function vizualizarInformacoesGlobais() {
